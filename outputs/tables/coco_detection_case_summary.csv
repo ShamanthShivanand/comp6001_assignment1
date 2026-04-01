@@ -1,0 +1,7 @@
+case,count
+RL higher detection count than blur,25
+RL same detection count as blur,68
+RL lower detection count than blur,107
+RL higher confidence than blur,72
+RL same confidence as blur,5
+RL lower confidence than blur,123

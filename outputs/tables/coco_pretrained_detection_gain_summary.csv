@@ -1,0 +1,5 @@
+metric,value
+avg_rl_detection_gain_over_blur,-1.27
+avg_rl_confidence_gain_over_blur,-0.043892895877361296
+avg_sharp_detection_gap_over_rl,1.27
+avg_sharp_confidence_gap_over_rl,0.043892895877361296

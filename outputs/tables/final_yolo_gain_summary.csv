@@ -1,0 +1,6 @@
+metric,value
+blur_mAP50_drop_vs_sharp,0.0
+rl_mAP50_drop_vs_sharp,0.1168424220876596
+rl_mAP50_gain_vs_blur,-0.1168424220876596
+blur_precision_drop_vs_sharp,0.0
+rl_precision_gain_vs_blur,-0.053956055826684945

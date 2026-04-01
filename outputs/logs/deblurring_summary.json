@@ -1,0 +1,11 @@
+{
+  "num_eval_images": 300,
+  "avg_blurred_psnr": 27.376670789146022,
+  "avg_wiener_psnr": 16.16984194810039,
+  "avg_rl_psnr": 22.799273426949433,
+  "avg_blurred_ssim": 0.8284209185086252,
+  "avg_wiener_ssim": 0.291457848699366,
+  "avg_rl_ssim": 0.7036463812384622,
+  "avg_wiener_runtime_sec": 0.19273708833331815,
+  "avg_rl_runtime_sec": 0.296825396333373
+}

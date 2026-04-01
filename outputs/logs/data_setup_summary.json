@@ -1,0 +1,14 @@
+{
+  "gopro_pairs": 1029,
+  "coco_val_pairs": 5000,
+  "gopro_blur_levels": {
+    "high_blur": 343,
+    "medium_blur": 343,
+    "low_blur": 343
+  },
+  "coco_blur_levels": {
+    "high_blur": 1667,
+    "low_blur": 1667,
+    "medium_blur": 1666
+  }
+}
